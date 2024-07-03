@@ -1,5 +1,9 @@
 ## Hi there 👋
+¡Hey!
 
+Soy Diego, diseñador visual especializado en UX UI.
+
+#UX #UI #VISUAL #HTML #CSS
 <!--
 **Diegodddd/diegodddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
